@@ -1,0 +1,13 @@
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\bin\Debug\MovieLibrary.WinForm.exe.config
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\bin\Debug\MovieLibrary.WinForm.exe
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\bin\Debug\MovieLibrary.WinForm.pdb
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.csprojAssemblyReference.cache
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.Properties.Resources.resources
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.csproj.GenerateResource.cache
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.csproj.CoreCompileInputs.cache
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.exe
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.pdb
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.MainForm.resources
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\bin\Debug\Newtonsoft.Json.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\bin\Debug\Newtonsoft.Json.xml
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.WinForm\obj\Debug\MovieLibrary.WinForm.csproj.CopyComplete

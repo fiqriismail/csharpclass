@@ -1,0 +1,15 @@
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Logic.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Logic.pdb
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Models.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Models.pdb
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\obj\Debug\MovieLibrary.Service.Logic.csprojAssemblyReference.cache
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\obj\Debug\MovieLibrary.Service.Logic.csproj.CoreCompileInputs.cache
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\obj\Debug\MovieLibrary.Service.Logic.csproj.CopyComplete
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\obj\Debug\MovieLibrary.Service.Logic.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\obj\Debug\MovieLibrary.Service.Logic.pdb
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Logic.dll.config
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\EntityFramework.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\MovieLibrary.Service.Models.dll.config
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\EntityFramework.xml
+c:\users\fiqriismail\source\repos\MovieLibrary\MovieLibrary.Service.Logic\bin\Debug\EntityFramework.SqlServer.xml
